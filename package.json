@@ -1,0 +1,25 @@
+{
+  "name": "dat-banana-website",
+  "version": "1.0.0",
+  "description": "A kewl website made for dat banana bot/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bananaboy21/dat-banana-website.git"
+  },
+  "keywords": [],
+  "author": "dat banana boi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bananaboy21/dat-banana-website/issues"
+  },
+  "homepage": "https://github.com/bananaboy21/dat-banana-website#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3"
+  },
+  "devDependencies": {}
+}
