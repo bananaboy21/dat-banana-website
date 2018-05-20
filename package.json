@@ -2,7 +2,7 @@
   "name": "dat-banana-website",
   "version": "1.0.0",
   "description": "A kewl website made for dat banana bot/",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
